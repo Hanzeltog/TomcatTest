@@ -34,6 +34,7 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Users/hli21423/workspace/TomcatTest/lib/sqljdbc4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Git/TomcatTest/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

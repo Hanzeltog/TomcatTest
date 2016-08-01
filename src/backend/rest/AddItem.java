@@ -26,7 +26,7 @@ public class AddItem {
 			@QueryParam("message") String message){
 		
 		DatabaseConnector db = new DatabaseConnector();
-		Date date = new Date(116, 10, 10);
+		Date date = new Date();
 		Calendar c = Calendar.getInstance(Locale.UK);
 		date = c.getTime();
 		
